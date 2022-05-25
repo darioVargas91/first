@@ -10,5 +10,4 @@ import {
 @Controller('product')
 export class ProductController {
   constructor() {}
-
 }

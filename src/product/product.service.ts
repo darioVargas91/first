@@ -6,8 +6,5 @@ import { Product } from './interfaces/product.interface';
 
 @Injectable()
 export class ProductService {
-  constructor(
-   
-  ) {}
-
+  constructor() {}
 }

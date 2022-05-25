@@ -8,6 +8,4 @@ import {
   Body,
 } from '@nestjs/common';
 @Controller('product')
-export class ProductController {
-  constructor() {}
-}
+export class ProductController {}

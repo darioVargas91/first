@@ -5,6 +5,4 @@ import { CreateProductDto } from './dto/product.dto';
 import { Product } from './interfaces/product.interface';
 
 @Injectable()
-export class ProductService {
-  constructor() {}
-}
+export class ProductService {}
